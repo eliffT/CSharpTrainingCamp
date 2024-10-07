@@ -16,7 +16,7 @@ namespace _01_MainSubjects
             #region YazdırmaKomutları
 
             // Console.Write("Merhaba Dünya");
-            //Console.WriteLine("Selam"); // Devamında alt satıra geçer
+            //Console.WriteLine("Selam"); 
 
             //Console.WriteLine("***** Yemek Kategorileri *****");
             //Console.WriteLine();
